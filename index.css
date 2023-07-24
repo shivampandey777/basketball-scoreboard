@@ -28,7 +28,8 @@ p{
     width: 150px;
     height: 120px;
     border-radius: 10px;
-  font-family: 'Seven Segment', sans-serif;
+  /* font-family: 'Seven Segment', sans-serif; */
+  font-family: '7segment';
     text-align: center;
     color: red;
     font-size: 90px;
@@ -37,7 +38,8 @@ p{
     
 }
 #btn{
-    font-family: 'Seven Segment', sans-serif;
+    /* font-family: 'Seven Segment', sans-serif; */
+    font-family: '7segment';
     display: flex;
     justify-content: space-around;
     margin-top: -35px;
